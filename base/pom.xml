@@ -18,8 +18,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
         <commons-compress.version>1.27.1</commons-compress.version>
-        <hoverfly-java.version>0.19.1</hoverfly-java.version>
-        <assertj.version>3.26.3</assertj.version>
+        <hoverfly-java.version>0.20.0</hoverfly-java.version>
+        <assertj.version>3.27.3</assertj.version>
         <git.commit.id>local</git.commit.id>
         <!-- Quarkus devtools version -->
         <quarkus.devtools.version>${quarkus.platform.version}</quarkus.devtools.version>

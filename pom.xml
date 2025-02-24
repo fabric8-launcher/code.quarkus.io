@@ -21,8 +21,8 @@
 
         <skipITs>true</skipITs>
         <surefire-plugin.version>3.5.2</surefire-plugin.version>
-        <quarkus-web-bundler.version>1.7.3</quarkus-web-bundler.version>
-        <quarkus-playwright.version>1.0.0</quarkus-playwright.version>
+        <quarkus-web-bundler.version>1.8.1</quarkus-web-bundler.version>
+        <quarkus-playwright.version>2.1.1</quarkus-playwright.version>
 
         <formatter.plugin.version>2.24.1</formatter.plugin.version>
         <quarkus.ide-config.version>${quarkus.platform.version}</quarkus.ide-config.version>
